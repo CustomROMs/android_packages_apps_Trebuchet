@@ -61,4 +61,7 @@
     <color name="widgets_view_background_color">@*android:color/primary_material_light</color>
     <color name="widgets_view_background_color_cell">@*android:color/material_grey_300</color>
 
+    <!-- Popup container -->
+    <color name="popup_header_background_color">@*android:color/material_grey_300</color>
+
 </resources>
