@@ -45,4 +45,9 @@
     <color name="fastscroller_thumb_text_color">@*android:color/updater_snackbar_text_color</color>
     <color name="fastscroller_thumb_background_color">@*android:color/accent_device_default_light</color>
 
+    <!-- Base theme text_color -->
+    <color name="all_apps_icon_text_color">#000</color>
+    <color name="all_apps_icon_text_color_secondary">@*android:color/material_grey_800</color>
+    <color name="widgets_view_text_color">#000</color>
+
 </resources>

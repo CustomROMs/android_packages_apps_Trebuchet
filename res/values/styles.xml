@@ -132,6 +132,11 @@
         <item name="keyShadowOffset">.5dp</item>
     </style>
 
+    <!-- Icon displayed on the worksapce -->
+    <style name="BaseIcon.AllApps">
+        <item name="android:textColor">@color/all_apps_icon_text_color</item>
+    </style>
+
     <!-- Theme for the popup container -->
     <style name="PopupItem">
         <item name="android:colorControlHighlight">?attr/popupColorTertiary</item>
