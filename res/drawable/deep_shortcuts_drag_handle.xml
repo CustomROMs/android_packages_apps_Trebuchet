@@ -19,7 +19,7 @@
         android:height="@dimen/deep_shortcut_drag_handle_size"
         android:viewportWidth="24.0"
         android:viewportHeight="24.0"
-        android:tint="?android:attr/textColorHint" >
+        android:tint="@color/popup_text_color" >
 
     <path
         android:pathData="M19,9H5c-0.55,0-1,0.45-1,1l0,0c0,0.55,0.45,1,1,1h14c0.55,0,1-0.45,1-1l0,0C20,9.45,19.55,9,19,9z M5,
