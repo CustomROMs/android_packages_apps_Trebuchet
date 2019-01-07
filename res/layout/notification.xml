@@ -41,7 +41,7 @@
             android:layout_height="@dimen/notification_header_height"
             android:paddingStart="@dimen/notification_padding_start"
             android:paddingEnd="@dimen/notification_padding_end"
-            android:background="?attr/popupColorPrimary"
+            android:background="@drawable/bg_system_shortcut_icons"
             android:elevation="@dimen/notification_elevation"
             android:layout_below="@id/gutter_top" >
             <TextView
