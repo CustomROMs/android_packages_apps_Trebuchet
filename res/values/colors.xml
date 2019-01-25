@@ -50,4 +50,9 @@
     <color name="all_apps_icon_text_color_secondary">@*android:color/material_grey_800</color>
     <color name="widgets_view_text_color">#000</color>
 
+    <!-- Base theme popup color -->
+    <color name="popup_background_color">#fff</color>
+    <color name="popup_text_color">#000</color>
+    <color name="popup_text_color_secondary">@*android:color/material_grey_800</color>
+
 </resources>
