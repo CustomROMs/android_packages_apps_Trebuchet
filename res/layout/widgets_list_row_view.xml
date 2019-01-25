@@ -29,7 +29,7 @@
         android:id="@+id/section"
         android:layout_width="match_parent"
         android:layout_height="@dimen/widget_section_height"
-        android:background="?android:attr/colorPrimary"
+        android:background="@color/widgets_view_background_color"
         android:drawablePadding="@dimen/widget_section_horizontal_padding"
         android:ellipsize="end"
         android:focusable="true"
